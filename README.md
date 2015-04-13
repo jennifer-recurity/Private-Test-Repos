@@ -1,2 +1,4 @@
 # test
-Test Repo for testing git windows features
+Private test repos for testing git things.
+
+Create a new branch for each project.
