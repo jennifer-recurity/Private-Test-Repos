@@ -1,6 +1,6 @@
 Test file
 1
-2
+2r
 3q
 4swd
 6 <--tis wdf
